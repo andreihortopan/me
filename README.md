@@ -1,2 +1,38 @@
-# me
-Personal information &amp; stuff
+# Read books
+- The Compound Effect - Darren Hardy
+- Rich Dad Poor Dad - Robert Kiyosaki
+- The Culture Map - Erin Meyer
+- How Will You Measure Your Life - Clay Christianssen
+- The Messy Middle - Scott Belsky
+- The 5 Languages of Love - Gary Chapman
+- Man's Search for Meaning - Viktor Frankl
+- This Is Marketing - Seth Godin
+- Slaughterhouse Five - Kurt Vonnegut
+- The Design of Everyday Things - Don Norman
+- Don’t Make Me Think - Steve Krug
+- Zero to One - Peter Thiel
+- The Great Gatsby, by F. Scott Fitzgerald 
+- The Life-Changing Magic of Tidying Up - Marie Kondo
+- Animal Farm - George Orwell
+- The Communist Manifesto - Karl Marx
+- Digital Minimalism - Cal Newport
+- The Metamorphosis - Franz Kafka
+- Viața pe un peron - Octavian Paler
+- The Orange Girl - Jostein Gaarder
+- Patul lui Procust - Camil Petrescu
+- Ultima noapte de dragoste, întâia noapte de război - Camil Petrescu
+- The Picture of Dorian Gray - Oscar Wilde
+- Pride and Prejudice - Jane Austen
+- Harry Potter - J. K. Rowling
+- The Chronicles of Narnia - C. S. Lewis
+- Chronicle of a Death Foretold - Gabriel García Márquez
+- Play Bigger - Multiple authors
+- Hooked - Nir Eyal
+- Sapiens - Yuval Noah Harari
+- Homo Deus - Yuval Noah Harari
+- 21 Lessons for the 21st Century - Yuval Noah Harari
+- The Velvet Rope Economy - Nelson D. Schwartz
+- The Great Gatsby - F. Scott. Fitzgerald
+- Edge - Laura Huang
+- The Classical School - Callum Williams
+- The Almanack of Naval Ravikant - Eric Jorgenson
