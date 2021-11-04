@@ -33,7 +33,7 @@
 - Homo Deus - Yuval Noah Harari
 - 21 Lessons for the 21st Century - Yuval Noah Harari
 - The Velvet Rope Economy - Nelson D. Schwartz
-- The Great Gatsby - F. Scott. Fitzgerald
+- The Great Gatsby - F. Scott Fitzgerald
 - Edge - Laura Huang
 - The Classical School - Callum Williams
 - The Almanack of Naval Ravikant - Eric Jorgenson
