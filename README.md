@@ -1,4 +1,5 @@
 # Read books
+- Viral Loop - Adam Penenberg
 - The Compound Effect - Darren Hardy
 - Rich Dad Poor Dad - Robert Kiyosaki
 - The Culture Map - Erin Meyer
